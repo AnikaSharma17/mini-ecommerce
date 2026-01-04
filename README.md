@@ -37,7 +37,7 @@ https://ecommerce-kohl-delta.vercel.app/
 
 ---
 
-## 🛠️ Technical Constraints Met
+## Technical Constraints Met
 - Functional components only
 - React Hooks: `useState`, `useEffect`, `useMemo`, `useCallback`
 - No UI libraries (100% custom CSS)
