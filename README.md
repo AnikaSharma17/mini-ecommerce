@@ -51,3 +51,12 @@ https://ecommerce-kohl-delta.vercel.app/
 ```bash
 git clone https://github.com/AnikaSharma17/mini-ecommerce.git
 cd mini-ecommerce
+
+### Install Dependencies
+npm install
+
+### Run the App Locally
+npm start
+
+The application will be available at:
+http://localhost:3000
