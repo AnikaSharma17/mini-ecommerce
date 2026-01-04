@@ -49,6 +49,7 @@ https://ecommerce-kohl-delta.vercel.app/
 
 ### Clone the Repository
 git clone https://github.com/AnikaSharma17/mini-ecommerce.git
+
 cd mini-ecommerce
 
 ### Install Dependencies
